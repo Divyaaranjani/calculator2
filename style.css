@@ -1,0 +1,23 @@
+table{
+    border: 2px solid black;
+    margin-top: 130px;
+    margin-left: 50px;
+    height: 350px;
+    width: 270px;
+    background-image: url(http://wallpapercave.com/wp/wp1836740.jpg);
+}
+#outputbox{
+    border: 2px solid black;
+    height: 40px;
+    background-color: rgb(252, 133, 212);
+    border: 1px rgb(242, 119, 119);
+}
+button{
+    margin-top: 40px;
+    border: 1px black;
+}
+body{
+    background-image: url(https://wallpapercave.com/wp/wp6571576.jpg);
+    background-repeat: no repeat;
+    background-size: cover;
+}
